@@ -3,24 +3,52 @@
   "WorkspaceRootPath": "C:\\Users\\ignac\\OneDrive\\Desarrollo\\C#\\Ejercicios\\Portafolio\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8754C958-5570-4101-A173-5F06BD940AFC}|Portafolio\\Portafolio.csproj|C:\\Users\\ignac\\OneDrive\\Desarrollo\\C#\\Ejercicios\\Portafolio\\portafolio\\servicios\\irepositorioproyectos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8754C958-5570-4101-A173-5F06BD940AFC}|Portafolio\\Portafolio.csproj|C:\\Users\\ignac\\OneDrive\\Desarrollo\\C#\\Ejercicios\\Portafolio\\portafolio\\views\\home\\_habilidades.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8754C958-5570-4101-A173-5F06BD940AFC}|Portafolio\\Portafolio.csproj|solutionrelative:portafolio\\views\\home\\_habilidades.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8754C958-5570-4101-A173-5F06BD940AFC}|Portafolio\\Portafolio.csproj|C:\\Users\\ignac\\OneDrive\\Desarrollo\\C#\\Ejercicios\\Portafolio\\portafolio\\views\\home\\_listadoproyectos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8754C958-5570-4101-A173-5F06BD940AFC}|Portafolio\\Portafolio.csproj|solutionrelative:portafolio\\views\\home\\_listadoproyectos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8754C958-5570-4101-A173-5F06BD940AFC}|Portafolio\\Portafolio.csproj|C:\\Users\\ignac\\OneDrive\\Desarrollo\\C#\\Ejercicios\\Portafolio\\portafolio\\views\\home\\_presentacion.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8754C958-5570-4101-A173-5F06BD940AFC}|Portafolio\\Portafolio.csproj|solutionrelative:portafolio\\views\\home\\_presentacion.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8754C958-5570-4101-A173-5F06BD940AFC}|Portafolio\\Portafolio.csproj|C:\\Users\\ignac\\OneDrive\\Desarrollo\\C#\\Ejercicios\\Portafolio\\portafolio\\wwwroot\\css\\custom.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{8754C958-5570-4101-A173-5F06BD940AFC}|Portafolio\\Portafolio.csproj|solutionrelative:portafolio\\wwwroot\\css\\custom.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8754C958-5570-4101-A173-5F06BD940AFC}|Portafolio\\Portafolio.csproj|C:\\Users\\ignac\\OneDrive\\Desarrollo\\C#\\Ejercicios\\Portafolio\\portafolio\\views\\home\\_seccionproyectos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8754C958-5570-4101-A173-5F06BD940AFC}|Portafolio\\Portafolio.csproj|solutionrelative:portafolio\\views\\home\\_seccionproyectos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8754C958-5570-4101-A173-5F06BD940AFC}|Portafolio\\Portafolio.csproj|C:\\Users\\ignac\\OneDrive\\Desarrollo\\C#\\Ejercicios\\Portafolio\\portafolio\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8754C958-5570-4101-A173-5F06BD940AFC}|Portafolio\\Portafolio.csproj|solutionrelative:portafolio\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8754C958-5570-4101-A173-5F06BD940AFC}|Portafolio\\Portafolio.csproj|C:\\Users\\ignac\\OneDrive\\Desarrollo\\C#\\Ejercicios\\Portafolio\\portafolio\\views\\home\\contacto.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8754C958-5570-4101-A173-5F06BD940AFC}|Portafolio\\Portafolio.csproj|solutionrelative:portafolio\\views\\home\\contacto.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8754C958-5570-4101-A173-5F06BD940AFC}|Portafolio\\Portafolio.csproj|C:\\Users\\ignac\\OneDrive\\Desarrollo\\C#\\Ejercicios\\Portafolio\\portafolio\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8754C958-5570-4101-A173-5F06BD940AFC}|Portafolio\\Portafolio.csproj|solutionrelative:portafolio\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8754C958-5570-4101-A173-5F06BD940AFC}|Portafolio\\Portafolio.csproj|c:\\users\\ignac\\onedrive\\desarrollo\\c#\\ejercicios\\portafolio\\portafolio\\servicios\\irepositorioproyectos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8754C958-5570-4101-A173-5F06BD940AFC}|Portafolio\\Portafolio.csproj|solutionrelative:portafolio\\servicios\\irepositorioproyectos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8754C958-5570-4101-A173-5F06BD940AFC}|Portafolio\\Portafolio.csproj|c:\\users\\ignac\\onedrive\\desarrollo\\c#\\ejercicios\\portafolio\\portafolio\\servicios\\servicioemailbrevo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8754C958-5570-4101-A173-5F06BD940AFC}|Portafolio\\Portafolio.csproj|C:\\Users\\ignac\\OneDrive\\Desarrollo\\C#\\Ejercicios\\Portafolio\\portafolio\\servicios\\servicioemailbrevo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8754C958-5570-4101-A173-5F06BD940AFC}|Portafolio\\Portafolio.csproj|solutionrelative:portafolio\\servicios\\servicioemailbrevo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8754C958-5570-4101-A173-5F06BD940AFC}|Portafolio\\Portafolio.csproj|c:\\users\\ignac\\onedrive\\desarrollo\\c#\\ejercicios\\portafolio\\portafolio\\models\\contacto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8754C958-5570-4101-A173-5F06BD940AFC}|Portafolio\\Portafolio.csproj|C:\\Users\\ignac\\OneDrive\\Desarrollo\\C#\\Ejercicios\\Portafolio\\portafolio\\models\\contacto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8754C958-5570-4101-A173-5F06BD940AFC}|Portafolio\\Portafolio.csproj|solutionrelative:portafolio\\models\\contacto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8754C958-5570-4101-A173-5F06BD940AFC}|Portafolio\\Portafolio.csproj|C:\\Users\\ignac\\OneDrive\\Desarrollo\\C#\\Ejercicios\\Portafolio\\portafolio\\models\\homeindexviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8754C958-5570-4101-A173-5F06BD940AFC}|Portafolio\\Portafolio.csproj|solutionrelative:portafolio\\models\\homeindexviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8754C958-5570-4101-A173-5F06BD940AFC}|Portafolio\\Portafolio.csproj|C:\\Users\\ignac\\OneDrive\\Desarrollo\\C#\\Ejercicios\\Portafolio\\portafolio\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8754C958-5570-4101-A173-5F06BD940AFC}|Portafolio\\Portafolio.csproj|solutionrelative:portafolio\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8754C958-5570-4101-A173-5F06BD940AFC}|Portafolio\\Portafolio.csproj|C:\\Users\\ignac\\OneDrive\\Desarrollo\\C#\\Ejercicios\\Portafolio\\portafolio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -31,7 +59,7 @@
       "RelativeMoniker": "D:0:0:{8754C958-5570-4101-A173-5F06BD940AFC}|Portafolio\\Portafolio.csproj|solutionrelative:portafolio\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8754C958-5570-4101-A173-5F06BD940AFC}|Portafolio\\Portafolio.csproj|c:\\users\\ignac\\onedrive\\desarrollo\\c#\\ejercicios\\portafolio\\portafolio\\servicios\\iservicioemailbrevo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8754C958-5570-4101-A173-5F06BD940AFC}|Portafolio\\Portafolio.csproj|C:\\Users\\ignac\\OneDrive\\Desarrollo\\C#\\Ejercicios\\Portafolio\\portafolio\\servicios\\iservicioemailbrevo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8754C958-5570-4101-A173-5F06BD940AFC}|Portafolio\\Portafolio.csproj|solutionrelative:portafolio\\servicios\\iservicioemailbrevo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -39,7 +67,7 @@
       "RelativeMoniker": "D:0:0:{8754C958-5570-4101-A173-5F06BD940AFC}|Portafolio\\Portafolio.csproj|solutionrelative:portafolio\\portafolio.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8754C958-5570-4101-A173-5F06BD940AFC}|Portafolio\\Portafolio.csproj|c:\\users\\ignac\\onedrive\\desarrollo\\c#\\ejercicios\\portafolio\\portafolio\\views\\home\\gracias.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{8754C958-5570-4101-A173-5F06BD940AFC}|Portafolio\\Portafolio.csproj|C:\\Users\\ignac\\OneDrive\\Desarrollo\\C#\\Ejercicios\\Portafolio\\portafolio\\views\\home\\gracias.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{8754C958-5570-4101-A173-5F06BD940AFC}|Portafolio\\Portafolio.csproj|solutionrelative:portafolio\\views\\home\\gracias.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
@@ -47,23 +75,11 @@
       "RelativeMoniker": "D:0:0:{8754C958-5570-4101-A173-5F06BD940AFC}|Portafolio\\Portafolio.csproj|solutionrelative:portafolio\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8754C958-5570-4101-A173-5F06BD940AFC}|Portafolio\\Portafolio.csproj|c:\\users\\ignac\\onedrive\\desarrollo\\c#\\ejercicios\\portafolio\\portafolio\\views\\home\\contacto.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8754C958-5570-4101-A173-5F06BD940AFC}|Portafolio\\Portafolio.csproj|solutionrelative:portafolio\\views\\home\\contacto.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8754C958-5570-4101-A173-5F06BD940AFC}|Portafolio\\Portafolio.csproj|C:\\Users\\ignac\\OneDrive\\Desarrollo\\C#\\Ejercicios\\Portafolio\\portafolio\\views\\home\\_seccionproyectos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8754C958-5570-4101-A173-5F06BD940AFC}|Portafolio\\Portafolio.csproj|solutionrelative:portafolio\\views\\home\\_seccionproyectos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8754C958-5570-4101-A173-5F06BD940AFC}|Portafolio\\Portafolio.csproj|c:\\users\\ignac\\onedrive\\desarrollo\\c#\\ejercicios\\portafolio\\portafolio\\views\\home\\_listadoproyectos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8754C958-5570-4101-A173-5F06BD940AFC}|Portafolio\\Portafolio.csproj|solutionrelative:portafolio\\views\\home\\_listadoproyectos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8754C958-5570-4101-A173-5F06BD940AFC}|Portafolio\\Portafolio.csproj|c:\\users\\ignac\\onedrive\\desarrollo\\c#\\ejercicios\\portafolio\\portafolio\\views\\home\\proyectos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{8754C958-5570-4101-A173-5F06BD940AFC}|Portafolio\\Portafolio.csproj|C:\\Users\\ignac\\OneDrive\\Desarrollo\\C#\\Ejercicios\\Portafolio\\portafolio\\views\\home\\proyectos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{8754C958-5570-4101-A173-5F06BD940AFC}|Portafolio\\Portafolio.csproj|solutionrelative:portafolio\\views\\home\\proyectos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8754C958-5570-4101-A173-5F06BD940AFC}|Portafolio\\Portafolio.csproj|c:\\users\\ignac\\onedrive\\desarrollo\\c#\\ejercicios\\portafolio\\portafolio\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{8754C958-5570-4101-A173-5F06BD940AFC}|Portafolio\\Portafolio.csproj|C:\\Users\\ignac\\OneDrive\\Desarrollo\\C#\\Ejercicios\\Portafolio\\portafolio\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{8754C958-5570-4101-A173-5F06BD940AFC}|Portafolio\\Portafolio.csproj|solutionrelative:portafolio\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
@@ -71,24 +87,8 @@
       "RelativeMoniker": "D:0:0:{8754C958-5570-4101-A173-5F06BD940AFC}|Portafolio\\Portafolio.csproj|solutionrelative:portafolio\\models\\proyectos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8754C958-5570-4101-A173-5F06BD940AFC}|Portafolio\\Portafolio.csproj|C:\\Users\\ignac\\OneDrive\\Desarrollo\\C#\\Ejercicios\\Portafolio\\portafolio\\views\\home\\_habilidades.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8754C958-5570-4101-A173-5F06BD940AFC}|Portafolio\\Portafolio.csproj|solutionrelative:portafolio\\views\\home\\_habilidades.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8754C958-5570-4101-A173-5F06BD940AFC}|Portafolio\\Portafolio.csproj|C:\\Users\\ignac\\OneDrive\\Desarrollo\\C#\\Ejercicios\\Portafolio\\portafolio\\wwwroot\\css\\custom.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{8754C958-5570-4101-A173-5F06BD940AFC}|Portafolio\\Portafolio.csproj|solutionrelative:portafolio\\wwwroot\\css\\custom.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8754C958-5570-4101-A173-5F06BD940AFC}|Portafolio\\Portafolio.csproj|C:\\Users\\ignac\\OneDrive\\Desarrollo\\C#\\Ejercicios\\Portafolio\\portafolio\\views\\home\\_presentacion.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8754C958-5570-4101-A173-5F06BD940AFC}|Portafolio\\Portafolio.csproj|solutionrelative:portafolio\\views\\home\\_presentacion.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{8754C958-5570-4101-A173-5F06BD940AFC}|Portafolio\\Portafolio.csproj|C:\\Users\\ignac\\OneDrive\\Desarrollo\\C#\\Ejercicios\\Portafolio\\portafolio\\servicios\\repositorioproyectos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8754C958-5570-4101-A173-5F06BD940AFC}|Portafolio\\Portafolio.csproj|solutionrelative:portafolio\\servicios\\repositorioproyectos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8754C958-5570-4101-A173-5F06BD940AFC}|Portafolio\\Portafolio.csproj|C:\\Users\\ignac\\OneDrive\\Desarrollo\\C#\\Ejercicios\\Portafolio\\portafolio\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8754C958-5570-4101-A173-5F06BD940AFC}|Portafolio\\Portafolio.csproj|solutionrelative:portafolio\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -98,50 +98,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Portafolio.csproj",
-              "DocumentMoniker": "C:\\Users\\ignac\\OneDrive\\Desarrollo\\C#\\Ejercicios\\Portafolio\\Portafolio\\Portafolio.csproj",
-              "RelativeDocumentMoniker": "Portafolio\\Portafolio.csproj",
-              "ToolTip": "C:\\Users\\ignac\\OneDrive\\Desarrollo\\C#\\Ejercicios\\Portafolio\\Portafolio\\Portafolio.csproj",
-              "RelativeToolTip": "Portafolio\\Portafolio.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-06-19T01:50:28.632Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "appsettings.Development.json",
-              "DocumentMoniker": "C:\\Users\\ignac\\OneDrive\\Desarrollo\\C#\\Ejercicios\\Portafolio\\Portafolio\\appsettings.Development.json",
-              "RelativeDocumentMoniker": "Portafolio\\appsettings.Development.json",
-              "ToolTip": "C:\\Users\\ignac\\OneDrive\\Desarrollo\\C#\\Ejercicios\\Portafolio\\Portafolio\\appsettings.Development.json",
-              "RelativeToolTip": "Portafolio\\appsettings.Development.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAnAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-06-21T03:58:56.634Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ignac\\OneDrive\\Desarrollo\\C#\\Ejercicios\\Portafolio\\Portafolio\\Program.cs",
-              "RelativeDocumentMoniker": "Portafolio\\Program.cs",
-              "ToolTip": "C:\\Users\\ignac\\OneDrive\\Desarrollo\\C#\\Ejercicios\\Portafolio\\Portafolio\\Program.cs",
-              "RelativeToolTip": "Portafolio\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-20T02:45:46.722Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\ignac\\OneDrive\\Desarrollo\\C#\\Ejercicios\\Portafolio\\Portafolio\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Portafolio\\Controllers\\HomeController.cs",
@@ -154,59 +115,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\ignac\\OneDrive\\Desarrollo\\C#\\Ejercicios\\Portafolio\\Portafolio\\appsettings.json",
-              "RelativeDocumentMoniker": "Portafolio\\appsettings.json",
-              "ToolTip": "C:\\Users\\ignac\\OneDrive\\Desarrollo\\C#\\Ejercicios\\Portafolio\\Portafolio\\appsettings.json",
-              "RelativeToolTip": "Portafolio\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-06-21T04:01:46.898Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "HomeIndexViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\ignac\\OneDrive\\Desarrollo\\C#\\Ejercicios\\Portafolio\\Portafolio\\Models\\HomeIndexViewModel.cs",
-              "RelativeDocumentMoniker": "Portafolio\\Models\\HomeIndexViewModel.cs",
-              "ToolTip": "C:\\Users\\ignac\\OneDrive\\Desarrollo\\C#\\Ejercicios\\Portafolio\\Portafolio\\Models\\HomeIndexViewModel.cs",
-              "RelativeToolTip": "Portafolio\\Models\\HomeIndexViewModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAgAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-20T01:50:05.035Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Contacto.cs",
-              "DocumentMoniker": "C:\\Users\\ignac\\OneDrive\\Desarrollo\\C#\\Ejercicios\\Portafolio\\Portafolio\\Models\\Contacto.cs",
-              "RelativeDocumentMoniker": "Portafolio\\Models\\Contacto.cs",
-              "ToolTip": "C:\\Users\\ignac\\OneDrive\\Desarrollo\\C#\\Ejercicios\\Portafolio\\Portafolio\\Models\\Contacto.cs",
-              "RelativeToolTip": "Portafolio\\Models\\Contacto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAXAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-21T17:15:40.939Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ServicioEmailBrevo.cs",
-              "DocumentMoniker": "C:\\Users\\ignac\\OneDrive\\Desarrollo\\C#\\Ejercicios\\Portafolio\\Portafolio\\Servicios\\ServicioEmailBrevo.cs",
-              "RelativeDocumentMoniker": "Portafolio\\Servicios\\ServicioEmailBrevo.cs",
-              "ToolTip": "C:\\Users\\ignac\\OneDrive\\Desarrollo\\C#\\Ejercicios\\Portafolio\\Portafolio\\Servicios\\ServicioEmailBrevo.cs",
-              "RelativeToolTip": "Portafolio\\Servicios\\ServicioEmailBrevo.cs",
-              "ViewState": "AQIAABoAAAAAAAAAAAAowDMAAAA4AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-21T17:52:35.003Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 8,
               "Title": "IRepositorioProyectos.cs",
               "DocumentMoniker": "C:\\Users\\ignac\\OneDrive\\Desarrollo\\C#\\Ejercicios\\Portafolio\\Portafolio\\Servicios\\IRepositorioProyectos.cs",
               "RelativeDocumentMoniker": "Portafolio\\Servicios\\IRepositorioProyectos.cs",
@@ -219,59 +128,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 0,
               "Title": "_Habilidades.cshtml",
               "DocumentMoniker": "C:\\Users\\ignac\\OneDrive\\Desarrollo\\C#\\Ejercicios\\Portafolio\\Portafolio\\Views\\Home\\_Habilidades.cshtml",
               "RelativeDocumentMoniker": "Portafolio\\Views\\Home\\_Habilidades.cshtml",
               "ToolTip": "C:\\Users\\ignac\\OneDrive\\Desarrollo\\C#\\Ejercicios\\Portafolio\\Portafolio\\Views\\Home\\_Habilidades.cshtml",
               "RelativeToolTip": "Portafolio\\Views\\Home\\_Habilidades.cshtml",
-              "ViewState": "AQIAABQAAAAAAAAAAAAowC0AAAAGAAAA",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-06-20T01:41:21.572Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "Proyectos.cs",
-              "DocumentMoniker": "C:\\Users\\ignac\\OneDrive\\Desarrollo\\C#\\Ejercicios\\Portafolio\\Portafolio\\Models\\Proyectos.cs",
-              "RelativeDocumentMoniker": "Portafolio\\Models\\Proyectos.cs",
-              "ToolTip": "C:\\Users\\ignac\\OneDrive\\Desarrollo\\C#\\Ejercicios\\Portafolio\\Portafolio\\Models\\Proyectos.cs",
-              "RelativeToolTip": "Portafolio\\Models\\Proyectos.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAACAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-20T01:47:31.361Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "IServicioEmailBrevo.cs",
-              "DocumentMoniker": "C:\\Users\\ignac\\OneDrive\\Desarrollo\\C#\\Ejercicios\\Portafolio\\Portafolio\\Servicios\\IServicioEmailBrevo.cs",
-              "RelativeDocumentMoniker": "Portafolio\\Servicios\\IServicioEmailBrevo.cs",
-              "ToolTip": "C:\\Users\\ignac\\OneDrive\\Desarrollo\\C#\\Ejercicios\\Portafolio\\Portafolio\\Servicios\\IServicioEmailBrevo.cs",
-              "RelativeToolTip": "Portafolio\\Servicios\\IServicioEmailBrevo.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAnAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-21T17:53:13.561Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Proyectos.cshtml",
-              "DocumentMoniker": "C:\\Users\\ignac\\OneDrive\\Desarrollo\\C#\\Ejercicios\\Portafolio\\Portafolio\\Views\\Home\\Proyectos.cshtml",
-              "RelativeDocumentMoniker": "Portafolio\\Views\\Home\\Proyectos.cshtml",
-              "ToolTip": "C:\\Users\\ignac\\OneDrive\\Desarrollo\\C#\\Ejercicios\\Portafolio\\Portafolio\\Views\\Home\\Proyectos.cshtml",
-              "RelativeToolTip": "Portafolio\\Views\\Home\\Proyectos.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-21T16:55:05.112Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 1,
               "Title": "_ListadoProyectos.cshtml",
               "DocumentMoniker": "C:\\Users\\ignac\\OneDrive\\Desarrollo\\C#\\Ejercicios\\Portafolio\\Portafolio\\Views\\Home\\_ListadoProyectos.cshtml",
               "RelativeDocumentMoniker": "Portafolio\\Views\\Home\\_ListadoProyectos.cshtml",
@@ -284,7 +154,46 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 3,
+              "Title": "custom.css",
+              "DocumentMoniker": "C:\\Users\\ignac\\OneDrive\\Desarrollo\\C#\\Ejercicios\\Portafolio\\Portafolio\\wwwroot\\css\\custom.css",
+              "RelativeDocumentMoniker": "Portafolio\\wwwroot\\css\\custom.css",
+              "ToolTip": "C:\\Users\\ignac\\OneDrive\\Desarrollo\\C#\\Ejercicios\\Portafolio\\Portafolio\\wwwroot\\css\\custom.css",
+              "RelativeToolTip": "Portafolio\\wwwroot\\css\\custom.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-06-19T02:20:26.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Presentacion.cshtml",
+              "DocumentMoniker": "C:\\Users\\ignac\\OneDrive\\Desarrollo\\C#\\Ejercicios\\Portafolio\\Portafolio\\Views\\Home\\_Presentacion.cshtml",
+              "RelativeDocumentMoniker": "Portafolio\\Views\\Home\\_Presentacion.cshtml",
+              "ToolTip": "C:\\Users\\ignac\\OneDrive\\Desarrollo\\C#\\Ejercicios\\Portafolio\\Portafolio\\Views\\Home\\_Presentacion.cshtml",
+              "RelativeToolTip": "Portafolio\\Views\\Home\\_Presentacion.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-20T01:38:07.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_SeccionProyectos.cshtml",
+              "DocumentMoniker": "C:\\Users\\ignac\\OneDrive\\Desarrollo\\C#\\Ejercicios\\Portafolio\\Portafolio\\Views\\Home\\_SeccionProyectos.cshtml",
+              "RelativeDocumentMoniker": "Portafolio\\Views\\Home\\_SeccionProyectos.cshtml",
+              "ToolTip": "C:\\Users\\ignac\\OneDrive\\Desarrollo\\C#\\Ejercicios\\Portafolio\\Portafolio\\Views\\Home\\_SeccionProyectos.cshtml",
+              "RelativeToolTip": "Portafolio\\Views\\Home\\_SeccionProyectos.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-20T02:29:09.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "Contacto.cshtml",
               "DocumentMoniker": "C:\\Users\\ignac\\OneDrive\\Desarrollo\\C#\\Ejercicios\\Portafolio\\Portafolio\\Views\\Home\\Contacto.cshtml",
               "RelativeDocumentMoniker": "Portafolio\\Views\\Home\\Contacto.cshtml",
@@ -297,33 +206,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\ignac\\OneDrive\\Desarrollo\\C#\\Ejercicios\\Portafolio\\Portafolio\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Portafolio\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\ignac\\OneDrive\\Desarrollo\\C#\\Ejercicios\\Portafolio\\Portafolio\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Portafolio\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAABsAAAB2AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-19T02:21:13.004Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "custom.css",
-              "DocumentMoniker": "C:\\Users\\ignac\\OneDrive\\Desarrollo\\C#\\Ejercicios\\Portafolio\\Portafolio\\wwwroot\\css\\custom.css",
-              "RelativeDocumentMoniker": "Portafolio\\wwwroot\\css\\custom.css",
-              "ToolTip": "C:\\Users\\ignac\\OneDrive\\Desarrollo\\C#\\Ejercicios\\Portafolio\\Portafolio\\wwwroot\\css\\custom.css",
-              "RelativeToolTip": "Portafolio\\wwwroot\\css\\custom.css",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAcwBsAAAAUAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-06-19T02:20:26.525Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 5,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\ignac\\OneDrive\\Desarrollo\\C#\\Ejercicios\\Portafolio\\Portafolio\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Portafolio\\Views\\Home\\Index.cshtml",
@@ -337,6 +220,138 @@
             {
               "$type": "Document",
               "DocumentIndex": 9,
+              "Title": "ServicioEmailBrevo.cs",
+              "DocumentMoniker": "C:\\Users\\ignac\\OneDrive\\Desarrollo\\C#\\Ejercicios\\Portafolio\\Portafolio\\Servicios\\ServicioEmailBrevo.cs",
+              "RelativeDocumentMoniker": "Portafolio\\Servicios\\ServicioEmailBrevo.cs",
+              "ToolTip": "C:\\Users\\ignac\\OneDrive\\Desarrollo\\C#\\Ejercicios\\Portafolio\\Portafolio\\Servicios\\ServicioEmailBrevo.cs",
+              "RelativeToolTip": "Portafolio\\Servicios\\ServicioEmailBrevo.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAowDMAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T17:52:35.003Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Contacto.cs",
+              "DocumentMoniker": "C:\\Users\\ignac\\OneDrive\\Desarrollo\\C#\\Ejercicios\\Portafolio\\Portafolio\\Models\\Contacto.cs",
+              "RelativeDocumentMoniker": "Portafolio\\Models\\Contacto.cs",
+              "ToolTip": "C:\\Users\\ignac\\OneDrive\\Desarrollo\\C#\\Ejercicios\\Portafolio\\Portafolio\\Models\\Contacto.cs",
+              "RelativeToolTip": "Portafolio\\Models\\Contacto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T17:15:40.939Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "HomeIndexViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\ignac\\OneDrive\\Desarrollo\\C#\\Ejercicios\\Portafolio\\Portafolio\\Models\\HomeIndexViewModel.cs",
+              "RelativeDocumentMoniker": "Portafolio\\Models\\HomeIndexViewModel.cs",
+              "ToolTip": "C:\\Users\\ignac\\OneDrive\\Desarrollo\\C#\\Ejercicios\\Portafolio\\Portafolio\\Models\\HomeIndexViewModel.cs",
+              "RelativeToolTip": "Portafolio\\Models\\HomeIndexViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T01:50:05.035Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ignac\\OneDrive\\Desarrollo\\C#\\Ejercicios\\Portafolio\\Portafolio\\appsettings.json",
+              "RelativeDocumentMoniker": "Portafolio\\appsettings.json",
+              "ToolTip": "C:\\Users\\ignac\\OneDrive\\Desarrollo\\C#\\Ejercicios\\Portafolio\\Portafolio\\appsettings.json",
+              "RelativeToolTip": "Portafolio\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-21T04:01:46.898Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ignac\\OneDrive\\Desarrollo\\C#\\Ejercicios\\Portafolio\\Portafolio\\Program.cs",
+              "RelativeDocumentMoniker": "Portafolio\\Program.cs",
+              "ToolTip": "C:\\Users\\ignac\\OneDrive\\Desarrollo\\C#\\Ejercicios\\Portafolio\\Portafolio\\Program.cs",
+              "RelativeToolTip": "Portafolio\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T02:45:46.722Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\ignac\\OneDrive\\Desarrollo\\C#\\Ejercicios\\Portafolio\\Portafolio\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Portafolio\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\ignac\\OneDrive\\Desarrollo\\C#\\Ejercicios\\Portafolio\\Portafolio\\appsettings.Development.json",
+              "RelativeToolTip": "Portafolio\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-21T03:58:56.634Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Portafolio.csproj",
+              "DocumentMoniker": "C:\\Users\\ignac\\OneDrive\\Desarrollo\\C#\\Ejercicios\\Portafolio\\Portafolio\\Portafolio.csproj",
+              "RelativeDocumentMoniker": "Portafolio\\Portafolio.csproj",
+              "ToolTip": "C:\\Users\\ignac\\OneDrive\\Desarrollo\\C#\\Ejercicios\\Portafolio\\Portafolio\\Portafolio.csproj",
+              "RelativeToolTip": "Portafolio\\Portafolio.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-19T01:50:28.632Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Proyectos.cs",
+              "DocumentMoniker": "C:\\Users\\ignac\\OneDrive\\Desarrollo\\C#\\Ejercicios\\Portafolio\\Portafolio\\Models\\Proyectos.cs",
+              "RelativeDocumentMoniker": "Portafolio\\Models\\Proyectos.cs",
+              "ToolTip": "C:\\Users\\ignac\\OneDrive\\Desarrollo\\C#\\Ejercicios\\Portafolio\\Portafolio\\Models\\Proyectos.cs",
+              "RelativeToolTip": "Portafolio\\Models\\Proyectos.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T01:47:31.361Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IServicioEmailBrevo.cs",
+              "DocumentMoniker": "C:\\Users\\ignac\\OneDrive\\Desarrollo\\C#\\Ejercicios\\Portafolio\\Portafolio\\Servicios\\IServicioEmailBrevo.cs",
+              "RelativeDocumentMoniker": "Portafolio\\Servicios\\IServicioEmailBrevo.cs",
+              "ToolTip": "C:\\Users\\ignac\\OneDrive\\Desarrollo\\C#\\Ejercicios\\Portafolio\\Portafolio\\Servicios\\IServicioEmailBrevo.cs",
+              "RelativeToolTip": "Portafolio\\Servicios\\IServicioEmailBrevo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T17:53:13.561Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Proyectos.cshtml",
+              "DocumentMoniker": "C:\\Users\\ignac\\OneDrive\\Desarrollo\\C#\\Ejercicios\\Portafolio\\Portafolio\\Views\\Home\\Proyectos.cshtml",
+              "RelativeDocumentMoniker": "Portafolio\\Views\\Home\\Proyectos.cshtml",
+              "ToolTip": "C:\\Users\\ignac\\OneDrive\\Desarrollo\\C#\\Ejercicios\\Portafolio\\Portafolio\\Views\\Home\\Proyectos.cshtml",
+              "RelativeToolTip": "Portafolio\\Views\\Home\\Proyectos.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-21T16:55:05.112Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ignac\\OneDrive\\Desarrollo\\C#\\Ejercicios\\Portafolio\\Portafolio\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Portafolio\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ignac\\OneDrive\\Desarrollo\\C#\\Ejercicios\\Portafolio\\Portafolio\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Portafolio\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABsAAAB2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-19T02:21:13.004Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
               "Title": "Gracias.cshtml",
               "DocumentMoniker": "C:\\Users\\ignac\\OneDrive\\Desarrollo\\C#\\Ejercicios\\Portafolio\\Portafolio\\Views\\Home\\Gracias.cshtml",
               "RelativeDocumentMoniker": "Portafolio\\Views\\Home\\Gracias.cshtml",
@@ -344,38 +359,11 @@
               "RelativeToolTip": "Portafolio\\Views\\Home\\Gracias.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABBAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-21T17:22:48.519Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-21T17:22:48.519Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "_SeccionProyectos.cshtml",
-              "DocumentMoniker": "C:\\Users\\ignac\\OneDrive\\Desarrollo\\C#\\Ejercicios\\Portafolio\\Portafolio\\Views\\Home\\_SeccionProyectos.cshtml",
-              "RelativeDocumentMoniker": "Portafolio\\Views\\Home\\_SeccionProyectos.cshtml",
-              "ToolTip": "C:\\Users\\ignac\\OneDrive\\Desarrollo\\C#\\Ejercicios\\Portafolio\\Portafolio\\Views\\Home\\_SeccionProyectos.cshtml",
-              "RelativeToolTip": "Portafolio\\Views\\Home\\_SeccionProyectos.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAXAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-20T02:29:09.164Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "_Presentacion.cshtml",
-              "DocumentMoniker": "C:\\Users\\ignac\\OneDrive\\Desarrollo\\C#\\Ejercicios\\Portafolio\\Portafolio\\Views\\Home\\_Presentacion.cshtml",
-              "RelativeDocumentMoniker": "Portafolio\\Views\\Home\\_Presentacion.cshtml",
-              "ToolTip": "C:\\Users\\ignac\\OneDrive\\Desarrollo\\C#\\Ejercicios\\Portafolio\\Portafolio\\Views\\Home\\_Presentacion.cshtml",
-              "RelativeToolTip": "Portafolio\\Views\\Home\\_Presentacion.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA2AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-20T01:38:07.975Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 21,
               "Title": "RepositorioProyectos.cs",
               "DocumentMoniker": "C:\\Users\\ignac\\OneDrive\\Desarrollo\\C#\\Ejercicios\\Portafolio\\Portafolio\\Servicios\\RepositorioProyectos.cs",
               "RelativeDocumentMoniker": "Portafolio\\Servicios\\RepositorioProyectos.cs",
@@ -383,8 +371,7 @@
               "RelativeToolTip": "Portafolio\\Servicios\\RepositorioProyectos.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAqwAoAAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-20T02:38:24.291Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-20T02:38:24.291Z"
             }
           ]
         }
